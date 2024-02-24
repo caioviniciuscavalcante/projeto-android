@@ -166,6 +166,7 @@ main img.pequena {
     max-width: 350px;
     margin: auto;
     display: block;
+    text-align: left;
 }
 
 div.video {
