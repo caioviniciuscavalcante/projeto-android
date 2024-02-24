@@ -27,6 +27,7 @@
     * {
         margin: 0px;
         padding: 0px;
+        width: 100%;
     }
 
 
@@ -156,10 +157,13 @@ main a:houver {
     color: var(--cor4);
 
 }
-
+main div {
+    width: 100%;
+}
 
 main image {
     width: 100%;
+
 }
 
 main img.pequena {
@@ -167,6 +171,7 @@ main img.pequena {
     margin: auto;
     display: block;
     text-align: left;
+    width: 100%;
 }
 
 div.video {
