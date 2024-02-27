@@ -6,6 +6,17 @@
     font-family: 'Android';
     src: url(.../fontes/idroid.ttf);
     font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {font-family: .bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+
+  }
+  
 
 }
 
@@ -42,6 +53,7 @@ body {
 
 header {
     background-image: linear-gradient(to bottom, var(--cor2), var(--cor5));
+    
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
